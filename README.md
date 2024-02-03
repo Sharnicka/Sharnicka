@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🧑‍🎓 Pursuing B.Tech IT at KPR Institute of Engineering and Technology
+
 - 🌱 I’m currently learning **Frontend Development @Spotknack**
 
 - 📫 How to reach me **sharnickasasi@gmail.com**
 
-- ⚡ Fun fact: Coding dreams into reality, **one commit at a time**
+- ⚡ Coding dreams into reality, **one commit at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
